@@ -1,6 +1,6 @@
 # JDBC 
 ## JDBC简介
-![concept](../JDBC/img/JDBC_concept.PNG)
+![concept](../JDBC/img/JDBC_concept.png)
 1. 如何在项目中使用不同的数据库？
 - 在项目中导入不同的jar包即可实现
 
